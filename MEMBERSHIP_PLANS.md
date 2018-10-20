@@ -2,7 +2,7 @@
 
 AgileVentures helps teams of developers get together to work on open source charity IT projects.  In the [free plan](http://www.agileventures.org/free) developers get project logistics support and the use of AgileVentures Slack and Google hangouts integration for online meetings.
 
-AgileVentures also provides [Premium](http://www.agileventures.org/premium), [Premium Mob](https://www.agileventures.org/premium_mob) ([free trial offer](https://www.agileventures.org/premium-mob-offer)) and [Premium F2F](https://www.agileventures.org/premium_f2f) ([free trial offer](https://www.agileventures.org/premium-f2f-offer))  membership plans with benefits beyond our [free tier membership](http://www.agileventures.org/free). These plans provide our members with greater support for their professional development as an Agile software developer, including live group and private sessions with AV Mentors.
+AgileVentures also provides [Premium](http://www.agileventures.org/premium), [Premium Mob](https://www.agileventures.org/premium-mob) ([free trial offer](https://www.agileventures.org/premium-mob-offer)) and [Premium F2F](https://www.agileventures.org/premium-f2f) ([free trial offer](https://www.agileventures.org/premium-f2f-offer))  membership plans with benefits beyond our [free tier membership](http://www.agileventures.org/free). These plans provide our members with greater support for their professional development as an Agile software developer, including live group and private sessions with AV Mentors.
 
 If you're not trying to level up as an Agile software developer yourself, you can still help out by [sponsoring another developer](http://www.agileventures.org/sponsorship) to get the support they can't otherwise afford.
 
@@ -16,10 +16,10 @@ If you're not trying to level up as an Agile software developer yourself, you ca
 <div style="text-align: center;">(&#xa3;10/month)</div>
 </th>
          <th width="65px" align="center" style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;">
-<div style="text-align: center;"><a href="/premium_mob"><font color="#ffffff">PremiumMob</font></a></div>
+<div style="text-align: center;"><a href="/premium-mob"><font color="#ffffff">PremiumMob</font></a></div>
 <div style="text-align: center;">(&#xa3;25/month)</div> </th>
 		<th width="60px" align="center" style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;">
-<div style="text-align: center;"><a href="/premium_f2f"><font color="#ffffff">PremiumF2F</font></a></div>
+<div style="text-align: center;"><a href="/premium-f2f"><font color="#ffffff">PremiumF2F</font></a></div>
 <div style="text-align: center;">(&#xa3;50/month)</div>
 </th>
     </tr>
@@ -95,42 +95,42 @@ If you're not trying to level up as an Agile software developer yourself, you ca
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;border-right:solid 1px #ddd;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
 		</tr>
 	<tr>
-		<td style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;"><a href="/premium_mob">One hour a week mob programming (group) sessions with assigned AV mentor</a></td>    
+		<td style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;"><a href="/premium-mob">One hour a week mob programming (group) sessions with assigned AV mentor</a></td>    
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;border-right:solid 1px #ddd;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
 	</tr>
 	<tr>
-		<td style="font-family: Arial, sans-serif;font-size: 14px;background:#efefef;padding:8px;"><a href="/premium_mob">Udemy Complete Elixir &amp; Phoenix Bootcamp course</a></td>    
+		<td style="font-family: Arial, sans-serif;font-size: 14px;background:#efefef;padding:8px;"><a href="/premium-mob">Udemy Complete Elixir &amp; Phoenix Bootcamp course</a></td>    
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;border-right:solid 1px #ddd;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
 	</tr>
 <tr>
-		<td style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;"><a href="/premium_mob">Udemy Modern React with Redux course</a></td>    
+		<td style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;"><a href="/premium-mob">Udemy Modern React with Redux course</a></td>    
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;border-right:solid 1px #ddd;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
 	</tr>
 <tr>
-		<td style="font-family: Arial, sans-serif;font-size: 14px;background:#efefef;padding:8px;"><a href="/premium_mob">Mastering Phoenix Framework book</a></td>    
+		<td style="font-family: Arial, sans-serif;font-size: 14px;background:#efefef;padding:8px;"><a href="/premium-mob">Mastering Phoenix Framework book</a></td>    
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;border-right:solid 1px #ddd;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
 	</tr>
 	<tr>
-		<td style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;"><a href="/premium_mob">Professional Development Planning Support</a></td>                       
+		<td style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;"><a href="/premium-mob">Professional Development Planning Support</a></td>                       
   		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;border-right:solid 1px #ddd;"><img width="32px" src="https://dl.dropbox.com/s/h3vg4hcvhkjc1ks/teal-circle-checkmark-128.png" alt="Circle checkmark icon" title="Circle checkmark"></td>
 	</tr>
 	<tr>
-		<td style="font-family: Arial, sans-serif;font-size: 14px;background:#efefef;padding:8px;"><a href="/premium_f2f">One hour a month face to face private support from assigned AV mentor</a></td>    
+		<td style="font-family: Arial, sans-serif;font-size: 14px;background:#efefef;padding:8px;"><a href="/premium-f2f">One hour a month face to face private support from assigned AV mentor</a></td>    
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="background:#efefef;padding:8px;border-left:solid 1px #ddd;"></td>
@@ -138,7 +138,7 @@ If you're not trying to level up as an Agile software developer yourself, you ca
 	</tr>
 	<tr>
 		<td style="font-family: Arial, sans-serif;font-size: 14px;padding:8px;">
-<a href="/premium_f2f">Voting rights in AV general meetings </a><br>(help decide AV Charity Policy and direction)</td>    
+<a href="/premium-f2f">Voting rights in AV general meetings </a><br>(help decide AV Charity Policy and direction)</td>    
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"></td>
 		<td align="center" style="padding:8px;border-left:solid 1px #ddd;"></td>
